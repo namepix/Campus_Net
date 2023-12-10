@@ -5,9 +5,9 @@
 ## 항공권 예약 시스템을 위한 전제 조건
 - 이 애플리케이션을 실행하기 위해서는 설치해야될 패키지: selenium
 
-    pip install selenium 
+        pip install selenium 
 
-(파이썬이 설치되어 있을경우 위 명령어로 설치 가능)
+    (파이썬이 설치되어 있을경우 위 명령어로 설치 가능)
 
 
 ## 실행 환경
@@ -22,19 +22,19 @@
 
 1. **크롬 버전 확인**
 
-    chrome://version
+        chrome://version
     
-위 링크에 접속하면 맨 윗줄에 버전 표시됨
+    위 링크에 접속하면 맨 윗줄에 버전 표시됨
 
 
 2. **크롬 드라이버 다운로드**
    - 버전 114 이하
 
-        [여기서 다운로드](https://chromedriver.chromium.org/downloads)
+            [여기서 다운로드](https://chromedriver.chromium.org/downloads)
    
    - 버전 115 이상
 
-        [여기서 다운로드](https://googlechromelabs.github.io/chrome-for-testing/)
+            [여기서 다운로드](https://googlechromelabs.github.io/chrome-for-testing/)
 
 
 3. **크롬 드라이버 위치**
@@ -44,12 +44,12 @@
 ## 설정 파일: setting.txt
 1. 이메일 보낼 구글계정 입력
    
-    account_id = ""
-    account_pasword = ""
+    - account_id = ""
+    - account_pasword = ""
 
 4. 항공권 가격 체크 주기 입력
-5. 
-    alarm_period = 1800
+   
+    - alarm_period = 1800
 
 (초 단위임. 30으로 설정하면 30초마다 가격 체크, 1800으로 설정하면 30분마다 가격 체크)
 
