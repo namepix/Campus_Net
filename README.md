@@ -37,7 +37,7 @@
 
         https://googlechromelabs.github.io/chrome-for-testing/
 
-4. chromedriver.exe 파일을 filght_ticket_alarm.py 파일이 들어있는 디렉토리에 놓으십시오
+3. chromedriver.exe 파일을 filght_ticket_alarm.py 파일이 들어있는 디렉토리에 놓으십시오
 
 
 ## 설정 파일: setting.txt
