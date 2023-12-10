@@ -44,7 +44,7 @@
 
    - 버전 114 이하: [여기서 다운로드](https://chromedriver.chromium.org/downloads)
    - 버전 115~119: [여기서 검색 후 링크 찾고 다운로드](https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)
-   - 
+  
            [찾는 법]
            ex)크롭 버전 116.0.5802.?? 일때
            1. 링크에 들어가서 ctrl+f 로 116.0.5802 검색. 만약 없으면 116.0까지만 검색
