@@ -23,16 +23,21 @@ pip install selenium
 이 애플리케이션은 크롬 드라이버를 필요로 합니다. 
 
 1.크롬 버전 확인
-chrome://version
+
+    chrome://version
+    
 위 링크에 접속하면 맨 윗줄에 버전 표시됨
 
 2. 크롬 드라이버 다운로드
   2-1. 버전 114 이하
-    https://chromedriver.chromium.org/downloads
+   
+       https://chromedriver.chromium.org/downloads
+   
   2-2. 버전 115 이상
-    https://googlechromelabs.github.io/chrome-for-testing/
+  
+        https://googlechromelabs.github.io/chrome-for-testing/
 
-3. chromedriver.exe 파일을 filght_ticket_alarm.py 파일이 들어있는 디렉토리에 놓으십시오
+4. chromedriver.exe 파일을 filght_ticket_alarm.py 파일이 들어있는 디렉토리에 놓으십시오
 
 
 ## 설정 파일: setting.txt
