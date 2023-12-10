@@ -29,11 +29,11 @@
 위 링크에 접속하면 맨 윗줄에 버전 표시됨
 
 2. 크롬 드라이버 다운로드
-    2-1. 버전 114 이하
+        2-1. 버전 114 이하
 
         https://chromedriver.chromium.org/downloads
    
-    2-2. 버전 115 이상
+        2-2. 버전 115 이상
 
         https://googlechromelabs.github.io/chrome-for-testing/
 
