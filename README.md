@@ -28,16 +28,13 @@
 
 
 2. **크롬 드라이버 다운로드**
-   - 버전 114 이하
 
-     [여기서 다운로드](https://chromedriver.chromium.org/downloads)
+   - 버전 114 이하: [여기서 다운로드](https://chromedriver.chromium.org/downloads)
    
-   - 버전 115 이상
-
-     [여기서 다운로드](https://googlechromelabs.github.io/chrome-for-testing/)
+   - 버전 115 이상: [여기서 다운로드](https://googlechromelabs.github.io/chrome-for-testing/)
 
 
-3. **크롬 드라이버 위치**
+4. **크롬 드라이버 위치**
    - chromedriver.exe 파일을 filght_ticket_alarm.py 파일이 들어있는 디렉토리에 놓으십시오
 
 
@@ -51,7 +48,7 @@
    
            alarm_period = 1800
 
-        (초 단위임. 30으로 설정하면 30초마다 가격 체크, 1800으로 설정하면 30분마다 가격 체크)
+   (초 단위임. 30으로 설정하면 30초마다 가격 체크, 1800으로 설정하면 30분마다 가격 체크)
 
 
 ## 주의사항!
