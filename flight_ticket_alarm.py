@@ -57,7 +57,7 @@ class Flight:
 class FlightReservationApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("항공권 예약 시스템")
+        self.root.title("항공권 최저가 갱신 알림 프로그램")
 
         # 변수 초기화
         self.departure_region_var = tk.StringVar()
