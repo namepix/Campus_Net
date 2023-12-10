@@ -51,7 +51,7 @@
    (초 단위. 30으로 설정하면 30초마다 가격 체크, 1800으로 설정하면 30분마다 가격 체크)
    
 3. **setting.txt 위치**
-   - chromedriver.exe 파일을 filght_ticket_alarm.py 파일이 들어있는 디렉토리에 놓으십시오
+   - setting.txt 파일을 filght_ticket_alarm.py 파일이 들어있는 디렉토리에 놓으십시오
 
 
 ## 주의사항!
